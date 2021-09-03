@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.activiti:activiti-engine:7.0.0.Beta1">
+    <CLASSES>
+      <root url="jar://D:/apache-maven/Repository/org/activiti/activiti-engine/7.0.0.Beta1/activiti-engine-7.0.0.Beta1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/apache-maven/Repository/org/activiti/activiti-engine/7.0.0.Beta1/activiti-engine-7.0.0.Beta1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/apache-maven/Repository/org/activiti/activiti-engine/7.0.0.Beta1/activiti-engine-7.0.0.Beta1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
