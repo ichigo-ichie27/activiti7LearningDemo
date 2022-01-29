@@ -39,7 +39,7 @@ public class TestVariables2 {
         // 2.获取RuntimeService
         RuntimeService runtimeService = processEngine.getRuntimeService();
         // 3.启动流程实例并传入流程参数
-        HashMap<String, Object> map = new HashMap<>();
+        HashMap<String, Object> map = new HashMap<String, Object>();
 //        Evection evection = new Evection();
 //        evection.setDays(3d);
 //        map.put("evection",evection);
@@ -62,7 +62,7 @@ public class TestVariables2 {
         ProcessEngine processEngine = ProcessEngines.getDefaultProcessEngine();
         // 2.获取TaskService
         TaskService taskService = processEngine.getTaskService();
-        HashMap<String, Object> map = new HashMap<>();
+        HashMap<String, Object> map = new HashMap<String,Object>();
         Evection evection = new Evection();
         evection.setDays(2d);
         map.put("evection",evection);

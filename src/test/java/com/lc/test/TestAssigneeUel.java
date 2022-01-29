@@ -43,7 +43,7 @@ public class TestAssigneeUel {
         RuntimeService runtimeService = processEngine.getRuntimeService();
         // 3.通过流程定义的key启动一个流程实例
         // 设置assignee的值，用来替换uel表达式
-        HashMap<String, Object> assigneeMap = new HashMap<>();
+        HashMap<String, Object> assigneeMap = new HashMap<String, Object>();
         assigneeMap.put("assignee0","张三");
         assigneeMap.put("assignee1","李四");
         assigneeMap.put("assignee2","王五");

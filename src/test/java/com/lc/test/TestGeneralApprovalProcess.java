@@ -44,7 +44,7 @@ public class TestGeneralApprovalProcess {
         // 2.获取RuntimeService
         RuntimeService runtimeService = processEngine.getRuntimeService();
         // 3.通过流程定义的key启动流程实例并传入流程参数
-        Map<String, Object> map = new HashMap<>();
+        Map<String, Object> map = new HashMap<String,Object>();
         GeneralApproval generalApproval = new GeneralApproval();
         generalApproval.setOperateType(0);
         map.put("approval",generalApproval);

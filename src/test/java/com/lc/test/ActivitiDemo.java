@@ -78,7 +78,7 @@ public class ActivitiDemo {
         ProcessEngine processEngine = ProcessEngines.getDefaultProcessEngine();
         // 2.获取RuntimeService
         RuntimeService runtimeService = processEngine.getRuntimeService();
-        // 3.根据流程定义的id启动流程
+        // 3.根据流程定义的key启动流程
         ProcessInstance instance = runtimeService.startProcessInstanceByKey("myEvection");
         // 4.输出信息
         System.out.println("流程定义id="+instance.getProcessDefinitionId());
