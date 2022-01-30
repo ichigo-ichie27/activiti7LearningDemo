@@ -5,73 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b2abda5-1d66-49c6-8d5c-7c7ee951912a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jgraph_jgraphx_v3_9_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jgraph_jgraphx_v3_9_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_javax_mail_1_5_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_javax_mail_1_5_6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_pool_commons_pool_1_5_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_pool_commons_pool_1_5_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__de_odysseus_juel_juel_api_2_2_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__de_odysseus_juel_juel_api_2_2_7.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__de_odysseus_juel_juel_impl_2_2_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__de_odysseus_juel_juel_impl_2_2_7.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__de_odysseus_juel_juel_spi_2_2_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__de_odysseus_juel_juel_spi_2_2_7.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_el_el_api_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_el_el_api_2_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_9_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_9_9.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_12.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__math_geom2d_javaGeom_0_11_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__math_geom2d_javaGeom_0_11_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_15.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_activiti_activiti_bpmn_converter_7_0_0_Beta1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_activiti_activiti_bpmn_converter_7_0_0_Beta1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_activiti_activiti_bpmn_layout_7_0_0_Beta1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_activiti_activiti_bpmn_layout_7_0_0_Beta1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_activiti_activiti_bpmn_model_7_0_0_Beta1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_activiti_activiti_bpmn_model_7_0_0_Beta1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_activiti_activiti_common_model_api_7_0_0_Beta1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_activiti_activiti_common_model_api_7_0_0_Beta1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_activiti_activiti_common_runtime_api_7_0_0_Beta1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_activiti_activiti_common_runtime_api_7_0_0_Beta1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_activiti_activiti_engine_7_0_0_Beta1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_activiti_activiti_engine_7_0_0_Beta1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_activiti_activiti_json_converter_7_0_0_Beta1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_activiti_activiti_json_converter_7_0_0_Beta1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_activiti_activiti_process_model_api_7_0_0_Beta1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_activiti_activiti_process_model_api_7_0_0_Beta1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_activiti_activiti_process_runtime_api_7_0_0_Beta1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_activiti_activiti_process_runtime_api_7_0_0_Beta1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_activiti_activiti_process_validation_7_0_0_Beta1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_activiti_activiti_process_validation_7_0_0_Beta1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_activiti_activiti_spring_7_0_0_Beta1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_activiti_activiti_spring_7_0_0_Beta1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_activiti_cloud_activiti_cloud_services_api_7_0_0_Beta1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_activiti_cloud_activiti_cloud_services_api_7_0_0_Beta1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_email_1_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_email_1_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_9_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_9_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_18.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_18.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_8_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_8_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_8_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_8_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_8_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_8_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_8_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_0_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_0_8_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_0_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_0_8_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/activiti01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/activiti01.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/activiti.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/activiti.cfg.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/lc/test/ActivitiDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/lc/test/ActivitiDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/lc/test/TestAssigneeUel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/lc/test/TestAssigneeUel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/lc/test/TestGatewayProcess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/lc/test/TestGatewayProcess.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/lc/test/TestGatewayProcess1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/lc/test/TestGatewayProcess1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/lc/test/TestGeneralApprovalProcess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/lc/test/TestGeneralApprovalProcess.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/lc/test/TestVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/lc/test/TestVariables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/lc/test/TestVariables1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/lc/test/TestVariables1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/lc/test/TestVariables2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/lc/test/TestVariables2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ichigoichie/activitiLog/activiti.log" beforeDir="false" afterPath="$PROJECT_DIR$/ichigoichie/activitiLog/activiti.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lc/listener/TaskListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lc/listener/TaskListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/lc/test/TestBpmn20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/lc/test/TestBpmn20.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -286,8 +223,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.obroom.plugin.mybatislog.indexNum" value="229" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.obroom.plugin.mybatislog.indexNum" value="657" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/bpmn" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -304,7 +241,7 @@
       <recent name="com.lc.test" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestBpmn20.completeTask">
+  <component name="RunManager" selected="JUnit.TestCountersign.completeTask">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -314,56 +251,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ActivitiDemo.testDeployment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="activiti01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lc.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.lc.test" />
-      <option name="MAIN_CLASS_NAME" value="com.lc.test.ActivitiDemo" />
-      <option name="METHOD_NAME" value="testDeployment" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestBpmn20" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="activiti01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lc.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.lc.test" />
-      <option name="MAIN_CLASS_NAME" value="com.lc.test.TestBpmn20" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestBpmn20.completeTask" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="activiti01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lc.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.lc.test" />
-      <option name="MAIN_CLASS_NAME" value="com.lc.test.TestBpmn20" />
-      <option name="METHOD_NAME" value="completeTask" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -402,6 +289,57 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestCountersign.completeTask" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="activiti01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lc.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lc.test.TestCountersign" />
+      <option name="METHOD_NAME" value="completeTask" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCountersign.deploymentProcess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="activiti01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lc.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lc.test.TestCountersign" />
+      <option name="METHOD_NAME" value="deploymentProcess" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCountersign.startProcessInstance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="activiti01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lc.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lc.test.TestCountersign" />
+      <option name="METHOD_NAME" value="startProcessInstance" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -429,18 +367,18 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.TestBpmn20.deploymentProcessInstance" />
-      <item itemvalue="JUnit.ActivitiDemo.testDeployment" />
-      <item itemvalue="JUnit.TestBpmn20" />
       <item itemvalue="JUnit.TestBpmn20.startProcessInstance" />
-      <item itemvalue="JUnit.TestBpmn20.completeTask" />
+      <item itemvalue="JUnit.TestCountersign.deploymentProcess" />
+      <item itemvalue="JUnit.TestCountersign.startProcessInstance" />
+      <item itemvalue="JUnit.TestCountersign.completeTask" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestBpmn20.completeTask" />
+        <item itemvalue="JUnit.TestCountersign.completeTask" />
+        <item itemvalue="JUnit.TestCountersign.startProcessInstance" />
+        <item itemvalue="JUnit.TestCountersign.deploymentProcess" />
         <item itemvalue="JUnit.TestBpmn20.startProcessInstance" />
         <item itemvalue="JUnit.TestBpmn20.deploymentProcessInstance" />
-        <item itemvalue="JUnit.ActivitiDemo.testDeployment" />
-        <item itemvalue="JUnit.TestBpmn20" />
       </list>
     </recent_temporary>
   </component>
@@ -474,8 +412,19 @@
       <workItem from="1643103500007" duration="2472000" />
       <workItem from="1643435007983" duration="2374000" />
       <workItem from="1643437547149" duration="1206000" />
-      <workItem from="1643438771329" duration="1817000" />
+      <workItem from="1643438771329" duration="5093000" />
+      <workItem from="1643447062339" duration="34000" />
+      <workItem from="1643447139763" duration="62000" />
+      <workItem from="1643447244861" duration="9052000" />
     </task>
+    <task id="LOCAL-00001" summary="测试bpmn20.xml格式是否兼容">
+      <created>1643440688532</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1643440688532</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -560,6 +509,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试bpmn20.xml格式是否兼容" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试bpmn20.xml格式是否兼容" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
