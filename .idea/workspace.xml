@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b2abda5-1d66-49c6-8d5c-7c7ee951912a" name="Default" comment="">
+    <list default="true" id="7b2abda5-1d66-49c6-8d5c-7c7ee951912a" name="Default" comment="新增会签demo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ichigoichie/activitiLog/activiti.log" beforeDir="false" afterPath="$PROJECT_DIR$/ichigoichie/activitiLog/activiti.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lc/listener/TaskListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lc/listener/TaskListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/lc/test/TestBpmn20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/lc/test/TestBpmn20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/bpmn/countersignDemo2.bpmn20.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bpmn/countersignDemo2.bpmn20.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/lc/test/TestCountersign.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/lc/test/TestCountersign.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -223,7 +223,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.obroom.plugin.mybatislog.indexNum" value="657" />
+    <property name="com.obroom.plugin.mybatislog.indexNum" value="3245" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/bpmn" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -241,7 +241,7 @@
       <recent name="com.lc.test" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestCountersign.completeTask">
+  <component name="RunManager" selected="JUnit.TestSerialCountersign.completeTask">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -251,40 +251,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestBpmn20.deploymentProcessInstance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="activiti01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lc.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.lc.test" />
-      <option name="MAIN_CLASS_NAME" value="com.lc.test.TestBpmn20" />
-      <option name="METHOD_NAME" value="deploymentProcessInstance" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestBpmn20.startProcessInstance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="activiti01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lc.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.lc.test" />
-      <option name="MAIN_CLASS_NAME" value="com.lc.test.TestBpmn20" />
-      <option name="METHOD_NAME" value="startProcessInstance" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -306,23 +272,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCountersign.deploymentProcess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="activiti01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lc.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.lc.test" />
-      <option name="MAIN_CLASS_NAME" value="com.lc.test.TestCountersign" />
-      <option name="METHOD_NAME" value="deploymentProcess" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestCountersign.startProcessInstance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="activiti01" />
       <extension name="coverage">
@@ -333,6 +282,57 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.lc.test" />
       <option name="MAIN_CLASS_NAME" value="com.lc.test.TestCountersign" />
+      <option name="METHOD_NAME" value="startProcessInstance" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSerialCountersign.completeTask" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="activiti01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lc.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lc.test.TestSerialCountersign" />
+      <option name="METHOD_NAME" value="completeTask" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSerialCountersign.deploymentProcess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="activiti01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lc.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lc.test.TestSerialCountersign" />
+      <option name="METHOD_NAME" value="deploymentProcess" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSerialCountersign.startProcessInstance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="activiti01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lc.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lc.test.TestSerialCountersign" />
       <option name="METHOD_NAME" value="startProcessInstance" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -366,19 +366,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.TestBpmn20.deploymentProcessInstance" />
-      <item itemvalue="JUnit.TestBpmn20.startProcessInstance" />
-      <item itemvalue="JUnit.TestCountersign.deploymentProcess" />
       <item itemvalue="JUnit.TestCountersign.startProcessInstance" />
       <item itemvalue="JUnit.TestCountersign.completeTask" />
+      <item itemvalue="JUnit.TestSerialCountersign.deploymentProcess" />
+      <item itemvalue="JUnit.TestSerialCountersign.startProcessInstance" />
+      <item itemvalue="JUnit.TestSerialCountersign.completeTask" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestSerialCountersign.completeTask" />
+        <item itemvalue="JUnit.TestSerialCountersign.startProcessInstance" />
+        <item itemvalue="JUnit.TestSerialCountersign.deploymentProcess" />
         <item itemvalue="JUnit.TestCountersign.completeTask" />
         <item itemvalue="JUnit.TestCountersign.startProcessInstance" />
-        <item itemvalue="JUnit.TestCountersign.deploymentProcess" />
-        <item itemvalue="JUnit.TestBpmn20.startProcessInstance" />
-        <item itemvalue="JUnit.TestBpmn20.deploymentProcessInstance" />
       </list>
     </recent_temporary>
   </component>
@@ -415,7 +415,11 @@
       <workItem from="1643438771329" duration="5093000" />
       <workItem from="1643447062339" duration="34000" />
       <workItem from="1643447139763" duration="62000" />
-      <workItem from="1643447244861" duration="9052000" />
+      <workItem from="1643447244861" duration="9177000" />
+      <workItem from="1643598249614" duration="1560000" />
+      <workItem from="1643939641402" duration="6630000" />
+      <workItem from="1644025464806" duration="23000" />
+      <workItem from="1644034531991" duration="5849000" />
     </task>
     <task id="LOCAL-00001" summary="测试bpmn20.xml格式是否兼容">
       <created>1643440688532</created>
@@ -424,7 +428,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643440688532</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="新增会签demo">
+      <created>1643557553495</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1643557553495</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -512,7 +523,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="测试bpmn20.xml格式是否兼容" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试bpmn20.xml格式是否兼容" />
+    <MESSAGE value="新增会签demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增会签demo" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

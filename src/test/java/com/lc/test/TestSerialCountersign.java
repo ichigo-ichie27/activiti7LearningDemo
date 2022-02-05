@@ -1,18 +1,19 @@
 package com.lc.test;
+
 import org.activiti.engine.*;
 import org.activiti.engine.repository.Deployment;
 import org.activiti.engine.runtime.ProcessInstance;
 import org.activiti.engine.task.Task;
 import org.junit.Test;
+
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
 /**
- * 测试并行会签流程
+ * 测试串行会签
  */
-public class TestCountersign {
-
+public class TestSerialCountersign {
     /**
      * 部署流程定义
      */
@@ -24,8 +25,8 @@ public class TestCountersign {
         RepositoryService repositoryService = processEngine.getRepositoryService();
         // 3.进行流程部署
         Deployment deploy = repositoryService.createDeployment()
-                .name("测试会签2")
-                .addClasspathResource("bpmn/countersignDemo2.bpmn20.xml")
+                .name("测试串行会签2")
+                .addClasspathResource("bpmn/serialCountersignDemo2.bpmn20.xml")
                 .deploy();
         System.out.println("流程部署id："+deploy.getId());
         System.out.println("流程部署名称："+deploy.getName());
@@ -44,7 +45,7 @@ public class TestCountersign {
         Map<String, Object> variables = new HashMap<String,Object>();
         variables.put("approverList", Arrays.asList("xiaoliu","xiaozhou","xiaowang"));
         // 3.根据流程定义的key启动流程实例
-        ProcessInstance processInstance = runtimeService.startProcessInstanceByKey("countersignDemo2",variables);
+        ProcessInstance processInstance = runtimeService.startProcessInstanceByKey("serialCountersignDemo2",variables);
         System.out.println("流程定义id："+processInstance.getProcessDefinitionId());
         System.out.println("流程示例id："+processInstance.getProcessInstanceId());
     }
@@ -60,7 +61,7 @@ public class TestCountersign {
         TaskService taskService = processEngine.getTaskService();
         RuntimeService runtimeService = processEngine.getRuntimeService();
         // 3.获取个人任务
-        Task task = taskService.createTaskQuery().processDefinitionKey("countersignDemo2")
+        Task task = taskService.createTaskQuery().processDefinitionKey("serialCountersignDemo2")
                 .taskAssignee("xiaowang").singleResult();
         if(task != null){
             // 审批意见
@@ -71,5 +72,4 @@ public class TestCountersign {
             //runtimeService.getVariable(task.getExecutionId(), "nrOfCompletedInstances");
         }
     }
-
 }
